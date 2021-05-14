@@ -4,4 +4,3 @@ WORKDIR /usr/local/debug
 RUN apk add --update python3
 
 COPY . .
-
