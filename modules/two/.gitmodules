@@ -1,0 +1,7 @@
+[submodule "demo"]
+	path = modules/demo
+	url = https://github.com/aubuchcl/mod-demo.git
+
+[submodule "test"]
+	path = modules/test
+	url = https://github.com/aubuchcl/mod-test.git
