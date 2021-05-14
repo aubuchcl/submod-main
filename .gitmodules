@@ -1,7 +1,7 @@
-[submodule "modone"]
+[submodule "modules/one"]
 	path = modules/one
 	url = https://github.com/aubuchcl/module-one.git
 
-[submodule "modtwo"]
+[submodule "modules/two"]
 	path = modules/two
 	url = https://github.com/aubuchcl/mod-two.git
